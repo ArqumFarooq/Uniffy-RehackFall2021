@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication-Rehack Fall 2021", "WebApplication-Rehack Fall 2021\WebApplication-Rehack Fall 2021.csproj", "{E7D7D6F7-F4FD-451D-BF16-1236484100D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7D7D6F7-F4FD-451D-BF16-1236484100D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7D7D6F7-F4FD-451D-BF16-1236484100D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7D7D6F7-F4FD-451D-BF16-1236484100D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7D7D6F7-F4FD-451D-BF16-1236484100D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02FFF719-548A-41B9-B825-DA862B65FAE6}
+	EndGlobalSection
+EndGlobal
